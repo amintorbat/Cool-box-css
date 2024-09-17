@@ -1,0 +1,24 @@
+html {
+  font-family: sans-serif;
+}
+
+/* Your CSS below here */
+
+div {
+  background-color: red;
+  color: white;
+  width: 200px;
+  margin: auto;
+  line-height: 9;
+  text-align: center;
+  text-shadow: 1px 1px black;
+  border-radius: 10px;
+  border: 1px solid #990000;
+  background-image: linear-gradient(
+    to top left,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2) 30%,
+    rgba(0, 0, 0, 0)
+  );
+  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, 0.671);
+}
